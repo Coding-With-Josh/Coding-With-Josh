@@ -89,7 +89,7 @@ const idele = {
     "Building reliable backend systems and Solana-integrated applications",
 
   funFact:
-    "I enjoy debugging backend issues more than designing UI 😄"
+    "I'm 15😄"
 };
 ```
 
