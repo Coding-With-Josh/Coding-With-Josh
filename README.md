@@ -32,7 +32,7 @@ I care a lot about **clean code, correctness, and architecture that scales**.
 ### 👨‍💻 Tech Snapshot
 
 ```ts
-const idele = {
+const me = {
   name: "Joshua",
   role: "Software & Blockchain Engineer",
   interests: [
