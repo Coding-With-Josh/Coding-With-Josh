@@ -1,14 +1,16 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey 👋, I'm Idele Joshua</h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV4YTZ1bnRqYXp0djJ5eXF6OXI2bnk2YzAzMGI5dnZmeDR6bzhsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8R13hY2pPvuSMGXzOv/giphy.gif" width="230">
 
 <p><em>
 blockchain dev • founder @use_zypp and @tot_global • solana stuff
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?label=Follow)](https://x.com/josh_scriptz)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow\&style=social)](https://github.com/Coding-With-Josh)
+[![Twitter Follow](https://img.shields.io/twitter/follow/josh_scriptz?label=Follow)](https://x.com/josh_scriptz)
+[![GitHub followers](https://img.shields.io/github/followers/Coding-With-Josh?label=Follow\&style=social)](https://github.com/Coding-With-Josh)
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?\&style=flat-square\&logo=Google-Chrome\&logoColor=white)](https://joide.me)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,rust,postgresql,nodejs,docker,git,figma)](https://joide.me)
 
 ---
 
@@ -97,7 +99,7 @@ const idele = {
 
 ### 🧠 What I Want to Be Known For
 
-* Being a **serious backend engineer**
+* Being a **serious blockchain engineer**
 * Building **real blockchain-integrated products**
 * Writing **clean, scalable code**
 * Improving fast through **shipping and learning**
