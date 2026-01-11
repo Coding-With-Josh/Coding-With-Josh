@@ -1,8 +1,8 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey 👋, I'm Joshua Idele</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey 👋, I'm Idele Joshua</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p><em>
-15 y/o Software & Blockchain Engineer • Solana / Protocol / Systems Builder  
+15 y/o Software & Blockchain Engineer • Backend, Systems & Solana Ecosystem Builder  
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
@@ -14,16 +14,16 @@
 
 ### 🚀 About Me
 
-I'm a **young, highly technical builder** focused on **blockchain infrastructure, protocol engineering, and production-grade systems**.
+I'm a **young software and blockchain-focused engineer** who enjoys building **real, production-grade systems**.
 
 I spend most of my time:
 
-* Designing **on-chain & off-chain architectures**
-* Building **Solana-native products**
-* Exploring **offline-first crypto systems**
-* Shipping **real software**, not demos
+* Building **backend-heavy applications**
+* Working with **Solana wallets, accounts, and off-chain systems**
+* Designing **scalable APIs and data models**
+* Shipping **actual products**, not tutorials
 
-I care deeply about **clean architecture, scalability, and correctness**.
+I care a lot about **clean code, correctness, and architecture that scales**.
 
 ---
 
@@ -32,30 +32,28 @@ I care deeply about **clean architecture, scalability, and correctness**.
 ```ts
 const idele = {
   name: "Idele Joshua",
-  role: "Blockchain & Protocol Engineer",
+  role: "Software & Blockchain Engineer",
   interests: [
-    "Solana protocols",
-    "offline crypto systems",
-    "low-level architecture",
-    "scalable backends",
+    "backend systems",
+    "blockchain infrastructure (off-chain)",
+    "wallets & accounts",
+    "scalable APIs",
     "developer tooling"
   ],
 
   languages: [
-    "Rust",
     "TypeScript",
     "JavaScript",
-    "C",
-    "SQL"
+    "SQL",
+    "C"
   ],
 
   technologies: {
     blockchain: [
-      "Solana",
-      "Smart contracts",
-      "Token programs",
+      "Solana ecosystem",
       "Wallet architecture",
-      "On-chain/off-chain sync"
+      "Account management",
+      "Transaction flows (client-side)"
     ],
 
     backend: [
@@ -73,25 +71,25 @@ const idele = {
     ],
 
     systems: [
-      "Protocol design",
-      "State machines",
-      "Offline-first systems",
-      "Event-driven architecture"
+      "Backend architecture",
+      "API design",
+      "Offline-capable applications",
+      "Event-driven services"
     ],
 
     tooling: [
       "Docker",
       "Git",
       "Linux",
-      "CI/CD"
+      "CI/CD basics"
     ]
   },
 
   currentFocus:
-    "Building real-world Solana infrastructure and protocol-level systems",
+    "Building reliable backend systems and Solana-integrated applications",
 
   funFact:
-    "I enjoy debugging hard systems problems more than writing UI 😄"
+    "I enjoy debugging backend issues more than designing UI 😄"
 };
 ```
 
@@ -99,24 +97,24 @@ const idele = {
 
 ### 🧠 What I Want to Be Known For
 
-* Being a **cracked protocol / systems engineer**
-* Building **real blockchain infrastructure**, not hype
-* Shipping **high-quality, well-architected products**
-* Learning fast and **thinking deeply**
+* Being a **serious backend engineer**
+* Building **real blockchain-integrated products**
+* Writing **clean, scalable code**
+* Improving fast through **shipping and learning**
 
 ---
 
 ### 📫 Let’s Connect
 
-I love talking to:
+I enjoy connecting with:
 
 * Engineers
-* Protocol builders
+* Builders
 * Founders
-* Mentors who like backing young builders early
+* Mentors who support young developers
 
-If you want to collaborate or just say hi — **my DMs are open** 👋
+If you want to collaborate or talk tech — **feel free to reach out** 👋
 
 ---
 
-> *“I’m not trying to be famous — I’m trying to be undeniable.”*
+> *“Focus on building real things. Everything else follows.”*
