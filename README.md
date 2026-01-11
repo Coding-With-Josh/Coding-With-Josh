@@ -6,9 +6,9 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?label=Follow)](https://twitter.com/)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow\&style=social)](https://github.com/)
-[![Website](https://img.shields.io/badge/Website-46a2f1.svg?\&style=flat-square\&logo=Google-Chrome\&logoColor=white)](#)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?label=Follow)](https://x.com/josh_scriptz)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow\&style=social)](https://github.com/Coding-With-Josh)
+[![Website](https://img.shields.io/badge/Website-46a2f1.svg?\&style=flat-square\&logo=Google-Chrome\&logoColor=white)](https://joide.me)
 
 ---
 
@@ -118,3 +118,5 @@ If you want to collaborate or talk tech — **feel free to reach out** 👋
 ---
 
 > *“Focus on building real things. Everything else follows.”*
+
+> *Fun fact.... I'm 15!*
