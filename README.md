@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p><em>
-15 y/o Software & Blockchain Engineer • Backend, Systems & Solana Ecosystem Builder  
+blockchain dev • founder @use_zypp and @tot_global • solana stuff
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
