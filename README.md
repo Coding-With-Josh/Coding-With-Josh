@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey 👋, I'm Idele Joshua</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey 👋, I'm Joshua</h2>
 <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV4YTZ1bnRqYXp0djJ5eXF6OXI2bnk2YzAzMGI5dnZmeDR6bzhsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8R13hY2pPvuSMGXzOv/giphy.gif" width="230">
 
 <p><em>
@@ -16,7 +16,7 @@ blockchain dev • founder @use_zypp and @tot_global • solana stuff
 
 ### 🚀 About Me
 
-I'm a **young software and blockchain-focused engineer** who enjoys building **real, production-grade systems**.
+I'm a **software and blockchain-focused engineer** who enjoys building **real, production-grade systems**.
 
 I spend most of my time:
 
@@ -33,7 +33,7 @@ I care a lot about **clean code, correctness, and architecture that scales**.
 
 ```ts
 const idele = {
-  name: "Idele Joshua",
+  name: "Joshua",
   role: "Software & Blockchain Engineer",
   interests: [
     "backend systems",
