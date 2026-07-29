@@ -91,7 +91,7 @@ const me = {
     "Building reliable backend systems and Solana-integrated applications",
 
   funFact:
-    "I'm 15😄"
+    "I'm 16😄"
 };
 ```
 
@@ -121,4 +121,4 @@ If you want to collaborate or talk tech — **feel free to reach out** 👋
 
 > *“Focus on building real things. Everything else follows.”*
 
-> *Fun fact.... I'm 15!*
+> *Fun fact.... I'm 16!*
