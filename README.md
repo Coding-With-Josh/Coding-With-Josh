@@ -8,7 +8,7 @@ research, design and engineering around ai, blockchain, embedded systems, and ha
 
 ---
 
-### publications
+### research papers & publications
 
 1. **Use Inference of Artificial Intelligence**
    Joshua Idele. October, 2026. [read here](https://zenodo.org/records/23153224)
