@@ -30,4 +30,4 @@ full list on [google scholar](https://scholar.google.com/citations?user=sDrWQScA
 
 ### get in touch
 
-[email](mailto:codewithjoshh@gmail.com) · [x (twitter)](https://x.com/josh_scriptz)
+[email](mailto:codewithjoshh@gmail.com) · [x (twitter)](https://x.com/josh_scriptz) · [resume](my-resume.pdf)
